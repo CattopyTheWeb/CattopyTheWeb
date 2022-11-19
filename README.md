@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Mes Visi Draugai!
-- 👀 I’m interested in programming, cyber security and tech in general 
+- 👀 I’m interested in programming, cyber security and tech in general
+- 💼 Working on a new version of Ghost game.
+- 💬 My tech server: https://discord.gg/pHvF2ghkQp
 - 🌱 I’m currently learning Python, bash
-
+- 🇺🇦 Long live 
