@@ -36,6 +36,6 @@
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=CattopyTheWebp&show_icons=true&theme=codeSTACKr)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=CattopyTheWeb&show_icons=true&theme=codeSTACKr)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=CattopyTheWeb&theme=codeSTACKr&border_radius=4.5) -->
