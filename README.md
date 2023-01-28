@@ -38,4 +38,13 @@
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=CattopyTheWeb&show_icons=true&theme=codeSTACKr)
 
+<div align="left"> 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-theta.vercel.app/?user=CattopyTheWeb&theme=codeSTACKr&hide_border=true" alt="GitHub Streak"></a>
+</div>
+<div align="left"?
+<a>
+     <img src="https://komarev.com/ghpvc/?username=CattopyTheWeb"/></a>
+    </div>
+<br>
+
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=CattopyTheWeb&theme=codeSTACKr&border_radius=4.5) -->
