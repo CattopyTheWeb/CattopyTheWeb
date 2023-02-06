@@ -13,13 +13,6 @@
 
 <a href="https://inv.wtf/cybertech-talks"><img src="https://inv.wtf/widget/cybertech-talks" width="500" height="300"/></a>
 
-  <p align="left">
-      <a href="https://github.com/CattopyTheWeb?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/CattopyTheWeb?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/CattopyTheWeb?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/CattopyTheWeb?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
 ---
 
 ### 🧰 Languages and Tools
@@ -44,10 +37,17 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-theta.vercel.app/?user=CattopyTheWeb&theme=codeSTACKr&hide_border=true" alt="GitHub Streak"></a>
 </div>
 <div align="left"?
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=CattopyTheWeb&theme=codeSTACKr&border_radius=4.5) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CattopyTheWeb&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 <a>
      <img src="https://komarev.com/ghpvc/?username=CattopyTheWeb"/></a>
     </div>
 <br>
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=CattopyTheWeb&theme=codeSTACKr&border_radius=4.5) -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CattopyTheWeb&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+  <p align="left">
+      <a href="https://github.com/CattopyTheWeb?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/CattopyTheWeb?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/CattopyTheWeb?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/CattopyTheWeb?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
