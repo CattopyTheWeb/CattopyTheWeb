@@ -7,9 +7,7 @@
 - 🌱 I’m currently learning Python, bash
 - 🇺🇦 Long live
 
-<a href="https://discord.com/users/<1006635811627876404>">
-<img src="https://discord.c99.nl/widget/theme-2/1006635811627876404.png" alt="Discord"/>
-</a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1006635811627876404)](https://discord.com/users/1006635811627876404)
 
   <p align="left">
       <a href="https://github.com/CattopyTheWeb?tab=followers">
