@@ -7,7 +7,9 @@
 - 🌱 I’m currently learning Python, bash
 - 🇺🇦 Long live
 
+<h2 align="center"><img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="20" height="20"/> &nbsp;Discord Stuff:</h2>
 [![Discord Presence](https://lanyard.cnrad.dev/api/1006635811627876404)](https://discord.com/users/1006635811627876404)
+<a href="https://inv.wtf/cybertech-talks"><img src="https://inv.wtf/cybertech-talks" width="450" height="110"/></a>
 
   <p align="left">
       <a href="https://github.com/CattopyTheWeb?tab=followers">
