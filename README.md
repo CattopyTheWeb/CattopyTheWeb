@@ -41,6 +41,8 @@
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=CattopyTheWeb&theme=codeSTACKr&border_radius=4.5) -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CattopyTheWeb&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+![GitHub metrics](https://metrics.lecoq.io/noxitb)
+
 <a>
      <img src="https://komarev.com/ghpvc/?username=CattopyTheWeb"/></a>
     </div>
