@@ -6,6 +6,7 @@
 - 💬 My tech Discord server: [https://discord.gg/cybertech-talks](https://dsc.gg/cybertech-talks)
 - 🌱 I’m currently learning Python, bash
 - 😺 Animal and nature lover
+- 🧗🏻‍♂️Bear Grylls Fan
 - 🇺🇦 Long live
 
 <h2 align="center"><img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="20" height="20"/> &nbsp;Discord Stuff:</h2>
