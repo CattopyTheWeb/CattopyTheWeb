@@ -31,6 +31,13 @@
 
 #
 
+### 📬 How to contact me?
+* Join my discord server [https://discord.gg/cybertech-talks](https://dsc.gg/cybertech-talks)
+* Make an issue on [here](https://github.com/CattopyTheWeb/CattopyTheWeb/issues)
+* DM me on discord `CattopyTheWeb#4040`
+
+#
+
 ### 📊 Stats
 
 ![CattopyTheWeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=CattopyTheWeb&show_icons=true&theme=codeSTACKr)
