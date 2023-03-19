@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Python, bash
 - 😺 Animal and nature lover
 - 🧗🏻‍♂️Bear Grylls Fan
-- 🇺🇦 Slava Ukraine!
+- 🇺🇦 Слава україна - Slava Ukraine!
 
 <h2 align="center"><img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="20" height="20"/> &nbsp;Discord Stuff:</h2>
 
