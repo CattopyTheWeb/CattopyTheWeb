@@ -9,6 +9,7 @@
 - 🧗🏻‍♂️Bear Grylls Fan
 - 📜Two best quotes: 
 > "A day without laugher is a day wasted" - Charlie Chaplin
+#
 > "A hacker is someone trying to figure out a way to make toast with a coffee maker." Wau Holland - Chaos Computer Club Founder
 - 🇺🇦 Слава україна - Slava Ukraini!
 
