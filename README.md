@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Cattopy The Web!
 - 👀 I’m interested in programming, malware analysis and tech in general
-- 💼 Working on a new version of [https://github.com/CattopyTheWeb/Python-Ghost-Game](Ghost-game)
+- 💼 Working on a new version of [https://github.com/CattopyTheWeb/Python-Ghost-Game](Ghost_game)
 - 💬 My tech Discord server: [https://discord.gg/cybertech-talks](https://dsc.gg/cybertech-talks)
 - 🌱 I’m currently learning Python, bash
 - 😺 Animal and nature lover
