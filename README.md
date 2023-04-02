@@ -13,7 +13,6 @@
      Railway referral link: https://railway.app?referralCode=L8acbY
      Cybrancee referral link: https://cybrancee.com/client/aff.php?aff=152
 </details>
-
 - <details>
   <summary>- 📜Two best quotes</summary>
 
