@@ -7,10 +7,21 @@
 - 🌱 I’m currently learning Python, bash
 - 😺 Animal and nature lover
 - 🧗🏻‍♂️Bear Grylls Fan
-- 📜Two best quotes: 
-> "A day without laugher is a day wasted" - Charlie Chaplin
-#
-> "A hacker is someone trying to figure out a way to make toast with a coffee maker." Wau Holland - Chaos Computer Club Founder
+- <details>
+  <summary>- 🔗Affiliate links:</summary>
+     PylexNodes referral code: `cybertech-talks` and `bob-the-bot`
+     Railway referral link: https://railway.app?referralCode=L8acbY
+     Cybrancee referral link: https://cybrancee.com/client/aff.php?aff=152
+</details>
+
+- <details>
+  <summary>- 📜Two best quotes</summary>
+
+     > "A day without laugher is a day wasted" - Charlie Chaplin
+     #
+     > "A hacker is someone trying to figure out a way to make toast with a coffee maker." Wau Holland - Chaos Computer Club        Founder
+</details>
+
 - 🇺🇦 Слава україна - Slava Ukraini!
 
 <h2 align="center"><img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="20" height="20"/> &nbsp;Discord Stuff:</h2>
