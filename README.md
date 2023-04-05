@@ -47,9 +47,11 @@
 #
 
 ### 📬 How to contact me?
-* Join my discord server [https://discord.gg/cybertech-talks](https://dsc.gg/cybertech-talks)
+* Join my Discord server [https://discord.gg/cybertech-talks](https://dsc.gg/cybertech-talks)
 * Make an issue on [here](https://github.com/CattopyTheWeb/CattopyTheWeb/issues)
-* DM me on discord `CattopyTheWeb#6884`
+* DM me on Discord: `CattopyTheWeb#6884`
+* DM me on Matrix: `@cattopytheweb:matrix.org`
+* DM me on Revolt: `CattopyTheWeb`
 
 #
 
