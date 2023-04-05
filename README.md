@@ -52,6 +52,7 @@
 * DM me on Discord: `CattopyTheWeb#6884`
 * DM me on Matrix: `@cattopytheweb:matrix.org`
 * DM me on Revolt: `CattopyTheWeb`
+* DM me on guided: `CattopyTheWeb`
 
 #
 
