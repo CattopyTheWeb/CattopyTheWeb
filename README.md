@@ -5,6 +5,7 @@
 - 💼 Working on a new version of [Ghost game](https://github.com/CattopyTheWeb/Python-ghost-game)
 - 💬 My tech Discord server: [https://discord.gg/cybertech-talks](https://dsc.gg/cybertech-talks)
 - 🌱 I’m currently learning Python, bash
+- 🤖 Dev at Bob The Bot
 - 😺 Animal and nature lover
 - 🧗🏻‍♂️Bear Grylls Fan
 - <details>
