@@ -5,7 +5,7 @@
 - 💼 Working on a new version of [Ghost game](https://github.com/CattopyTheWeb/Python-ghost-game)
 - 💬 My tech Discord server: [https://discord.gg/cybertech-talks](https://dsc.gg/cybertech-talks)
 - 🌱 I’m currently learning Python, bash
-- 🤖 Dev at Bob The Bot
+- 🤖 Dev at [Bob The Bot](https://github.com/Bob-the-bot1)
 - 😺 Animal and nature lover
 - 🧗🏻‍♂️Bear Grylls Fan
 - <details>
@@ -50,7 +50,7 @@
 ### 📬 How to contact me?
 * Join my Discord server [https://discord.gg/cybertech-talks](https://dsc.gg/cybertech-talks)
 * Make an issue on [here](https://github.com/CattopyTheWeb/CattopyTheWeb/issues)
-* DM me on Discord: `CattopyTheWeb#6884`
+* DM me on Discord: `Catt0py The Web#6884`
 * DM me on Matrix: `@cattopytheweb:matrix.org`
 * DM me on Revolt: `CattopyTheWeb`
 * DM me on guided: `CattopyTheWeb`
