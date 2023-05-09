@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Cattopy The Web
 
-- 👋 Hi, I’m Cattopy The Web!
+- 👋 Hi, I’m Cattopy!
 - 👀 I’m interested in programming, malware analysis and tech in general
 - 💼 Working on a new version of [Ghost game](https://github.com/CattopyTheWeb/Python-ghost-game)
 - 💬 My tech Discord server: [https://discord.gg/cybertech-talks](https://dsc.gg/cybertech-talks)
