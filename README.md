@@ -11,7 +11,9 @@
 - <details>
   <summary>- 🔗Affiliate links:</summary>
      PylexNodes referral code: `cybertech-talks` and `bob-the-bot`
+  
      Railway referral link: https://railway.app?referralCode=L8acbY
+  
      Cybrancee referral link: https://cybrancee.com/client/aff.php?aff=152
 </details>
 
@@ -52,8 +54,7 @@
 * Make an issue on [here](https://github.com/CattopyTheWeb/CattopyTheWeb/issues)
 * DM me on Discord: `Catt0py The Web#6884`
 * DM me on Matrix: `@cattopytheweb:matrix.org`
-* DM me on Revolt: `CattopyTheWeb`
-* DM me on guided: `CattopyTheWeb`
+* DM me on Guided: `CattopyTheWeb`
 
 #
 
