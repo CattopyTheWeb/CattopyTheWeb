@@ -46,6 +46,7 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Sublime Text" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" />
 <br />
 
 #
