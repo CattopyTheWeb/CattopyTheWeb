@@ -6,7 +6,7 @@
 - 💬 My tech Discord server: [https://discord.gg/cybertech-talks](https://dsc.gg/cybertech-talks)
 - 🌱 I’m currently learning Python, bash
 - 🤖 Dev at [Bob The Bot](https://github.com/Bob-the-bot1)
-- ✍️ Writer at [CodeIQ](https://github.com/CodeIQ1)
+- ✍️ Course writer at [CodeIQ](https://github.com/CodeIQ1)
 - 😺 Animal and nature lover
 - 🧗🏻‍♂️Bear Grylls Fan
 - <details>
