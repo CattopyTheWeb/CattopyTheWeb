@@ -11,7 +11,6 @@
 - 🧗🏻‍♂️Bear Grylls Fan
 - <details>
   <summary>- 🔗Affiliate links:</summary>
-     PylexNodes referral code: `cybertech-talks` and `bob-the-bot`
   
      Railway referral link: https://railway.app?referralCode=L8acbY
   
@@ -54,7 +53,7 @@
 ### 📬 How to contact me?
 * Join my Discord server https://dsc.gg/cybertech-talks
 * Make an issue on [here](https://github.com/CattopyTheWeb/CattopyTheWeb/issues)
-* DM me on Discord: `Catt0py The Web#6884`
+* DM me on Discord: `cattopytheweb404`
 * DM me on Matrix: `@cattopytheweb:matrix.org`
 * DM me on Guided: `CattopyTheWeb`
 
