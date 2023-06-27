@@ -55,7 +55,7 @@
 * Make an issue on [here](https://github.com/CattopyTheWeb/CattopyTheWeb/issues)
 * DM me on Discord: `cattopytheweb404`
 * DM me on Matrix: `@cattopytheweb:matrix.org`
-* DM me on Guided: `CattopyTheWeb`
+* DM me on Guilded: `CattopyTheWeb`
 
 #
 
